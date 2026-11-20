@@ -7,6 +7,8 @@ I’m a software engineer with **15+ years of experience** building backend syst
 My main focus is designing **maintainable, testable, and scalable software** — while continuously exploring the intersection of **software engineering and AI**.
 
 ---
+ <img src="simurgh/simurgh.gif" width="256" alt="My Simurgh">
+---
 
 ## 🚀 About Me
 
